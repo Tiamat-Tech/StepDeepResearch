@@ -610,4 +610,4 @@ The code in the repository is licensed under [Apache 2.0](LICENSE) License.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=stepfun-ai/StepDeepResearch&type=Date)](https://star-history.com/stepfun-ai/StepDeepResearch&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=stepfun-ai/StepDeepResearch&type=Date)](https://star-history.com/#stepfun-ai/StepDeepResearch&Date)
