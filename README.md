@@ -521,17 +521,19 @@ yarn install
 
 Get your StepFun API key(s) from [StepFun Open Platform](https://platform.stepfun.com/interface-key), the StepFun API key is for both model and search.
 
+Create a `.env` file in the repo root:
+
 ```bash
 # Model provider
-export MODEL_PROVIDER="stepfun"
+MODEL_PROVIDER=stepfun
 # Model API base URL (StepFun)
-export MODEL_BASE="https://api.stepfun.com"
+MODEL_BASE=https://api.stepfun.com
 # StepFun model API key
-export STEP_MODEL_API_KEY="your-model-api-key"
+STEP_MODEL_API_KEY=your-model-api-key
 # Search API base URL (StepFun search service)
-export STEP_SEARCH_API_BASE="https://api.stepfun.com"
+STEP_SEARCH_API_BASE=https://api.stepfun.com
 # StepFun search API key
-export STEP_SEARCH_API_KEY="your-search-api-key"
+STEP_SEARCH_API_KEY=your-search-api-key
 ```
 
 **Recommended System Prompt**
